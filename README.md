@@ -4,6 +4,9 @@ The robot moves forward until it senses an obstacle, then intelligently scans le
 
 Powered by a L298N motor driver, it controls four DC motors for smooth forward and turning motion. This makes it a great project for learning about robotics, sensors, and autonomous navigation.
 
+![image](https://github.com/user-attachments/assets/d0c4330a-e5c1-4cb9-b620-1dfe46c17cb9)
+
+
  Hardware Components Used:
  
 	1.	L298N Motor Driver Module
